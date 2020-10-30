@@ -29,7 +29,7 @@ p {
 }
 
 hr {
- border: dotted #c9d6df 6px;
+ border: dotted #c9d6 6px;
  border-bottom: none;
  width: 4%;
  margin: 100px auto;
@@ -49,7 +49,7 @@ hr {
 .im-mike {
   color: #1e2022;
   padding-top: 400px;
-  margin: 0;
+  margin: 0; 
 }
 
 
