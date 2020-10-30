@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  
+}
+
+h1 {
+  color: #52616b;
+  font-size: 5.625rem; 
+  margin: 50px auto 0 auto;
+  font-family: 'Playfair', serif;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #52616b;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Playfair', serif;
+  color: #1e2022;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+ border: dotted #c9d6df 6px;
+ border-bottom: none;
+ width: 4%;
+ margin: 100px auto;
+}
+
+.top-container {
+  background-repeat: no-repeat;
+  background-image: url(../images/beach.png);
+  background-size: auto;
+  height: 1054px;
+}
+
+.a-programmer {
+  color: #1e2022;
+}
+
+.im-mike {
+  color: #1e2022;
+  padding-top: 400px;
+}
+
+
+.middle-container {
+  margin: 50px 0;
+}
+
+.bottom-container {
+  background-color: #1e2022;
+  color: #f0f5f9;
+  padding: 50px 0 20px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+  
+}
+
+a {
+  color: #f0f5f9;
+  font-family: 'Poppins', sans-serif;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.programming-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.guitar-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Poppins', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #1e2022;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #52616b;
+  text-decoration: none;
+}
+
+.top-name {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-left: 50px;
+  font-size: 20px;
+  font-weight: normal;
+  font-family: 'Playfair', serif;
+  text-align: left;
+}
+
+.im-mike {
+}
