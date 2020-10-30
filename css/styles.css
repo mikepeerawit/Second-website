@@ -24,6 +24,15 @@ h3 {
   color: #1e2022;
 }
 
+a {
+  color: #f0f5f9;
+  font-family: 'Poppins', sans-serif;
+}
+
+a:hover {
+  color: #c9d6df;
+}
+
 p {
   line-height: 2;
 }
@@ -52,7 +61,9 @@ hr {
   margin: 0; 
 }
 
-
+.copyright{
+  font-size: 0.75rem;
+}
 .middle-container {
   margin: 50px 0;
 }
@@ -68,7 +79,7 @@ hr {
 }
 
 .intro {
-  width: 30%;
+  width: 50%;
   margin: auto;
 }
 
@@ -88,11 +99,6 @@ hr {
   right: 300px;
   top: 40px;
   
-}
-
-a {
-  color: #f0f5f9;
-  font-family: 'Poppins', sans-serif;
 }
 
 .skill-row {
@@ -138,7 +144,4 @@ a {
   font-weight: normal;
   font-family: 'Playfair', serif;
   text-align: left;
-}
-
-.im-mike {
 }
